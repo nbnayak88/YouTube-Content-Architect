@@ -1,0 +1,6 @@
+{
+  "name": "SuccessLabs Academy — Daily YouTube Live Architect",
+  "description": "365-day YouTube Live Content Architect, Producer, and Strategic Copilot for Enterprise Architecture, AI, and SAP transformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
